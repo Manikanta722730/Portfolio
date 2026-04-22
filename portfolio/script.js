@@ -10,7 +10,7 @@ document.body.onpointermove = event => {
     
     blob.animate({
         left: `${clientX}px`,
-        top: `${clientY + window.scrollY}px`
+        top: `${clientY}px`
     }, { duration: 3000, fill: "forwards" });
 };
 
@@ -51,3 +51,22 @@ function typeWriter() {
 
 // Start typing effect slightly after load
 setTimeout(typeWriter, 500);
+
+// Smooth scroll for nav links
+document.querySelectorAll('.nav-links a').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const targetId = this.getAttribute('href');
+        const targetSection = document.querySelector(targetId);
+        if (targetSection) {
+            const headerOffset = 100; // Adjust for fixed header height + padding
+            const elementPosition = targetSection.getBoundingClientRect().top;
+            const offsetPosition = elementPosition + window.scrollY - headerOffset;
+            
+            window.scrollTo({
+                top: offsetPosition,
+                behavior: "smooth"
+            });
+        }
+    });
+});
