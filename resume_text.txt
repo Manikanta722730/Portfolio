@@ -1,0 +1,36 @@
+Muddana Manikanta
+Phone-Alt+91 9502175598 | Envelopemmuddana6@gmail.com | Githubgithub.com/Manikanta722730
+B.T ech in Artiﬁcial Intelligence and Data Science (AID), AMRIT A School of AI, Bengaluru Campus
+Professional Summary
+Artiﬁcial Intelligence and Data Science undergraduate with basic knowledge in Python, web development,
+databases, and object-oriented programming. Interested in building simple applications and solving real-world
+problems using fundamental concepts. Comfortable working on beginner-friendly academic projects and
+learning through practical implementation.
+Education
+• Amrita Vishwa Vidyapeetham, Bengaluru 2023 – 2027
+B.T ech in Artiﬁcial Intelligence and Data Science CGPA: 7.57
+• Narayana Junior College, Vijayawada 2021 – 2023
+Board of Intermediate Education, Andhra Pradesh 93.6%
+• Bhashyam Public School, Guntur 2020 – 2021
+Board of Secondary Education, Andhra Pradesh 100%
+Projects
+• Sports Player Tracking System 2025
+Developed a simple system to track player movement in video frames using basic image processing
+techniques. Extracted highlights based on activity levels and visualized the results.
+• Regression Analysis Model 2025
+Built a basic regression model to predict output values from given input data. Performed simple data
+preprocessing and visualized predictions using graphs.
+• Aquaponics Data Analysis System 2025
+Developed a system to analyze environmental data using basic data processing techniques. Performed
+trend analysis and generated visual insights.
+Technical Skills
+• Programming: C, Object Oriented Programming, Python
+• Web: HTML, CSS, JavaScript
+• Database: MySQL
+• Tools: VS Code, Jupyter Notebook, and Matlab
+Certiﬁcations
+• AWS Academy Cloud Foundations (Amazon)
+Achievements
+• Participated in Overnight hackathons activities.
+• Completed online courses related to programming and technology.
+• Regularly practiced problem-solving through academic assignments and mini projects.
